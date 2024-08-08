@@ -6,7 +6,7 @@ O sistema opera em três modos distintos: Modo Aberto, Modo Fechado e Modo Admin
 
 Há também três tipos de usuários no sistema: Atendente, Gerente e Cliente, cada um com diferentes níveis de acesso e permissões.
 
-As especificações detalhadas e a descrição completa do sistema estão disponíveis no arquivo "Descrição do Sistema".
+As especificações detalhadas e a descrição completa do sistema estão disponíveis no arquivo "Descrição do Sistema" na pasta "Descrição".
 
 ------------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ The system operates in three distinct modes: Open Mode, Closed Mode, and Adminis
 
 There are also three types of users in the system: Attendant, Manager, and Customer, each with different levels of access and permissions.
 
-Detailed specifications and a full description of the system are available in the "Descrição do Sistema" file.
+The detailed specifications and complete description of the system are available in the 'Descrição do Sistema' file in the 'Descrição' folder.
