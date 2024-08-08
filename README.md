@@ -9,7 +9,7 @@ Há também três tipos de usuários no sistema: Atendente, Gerente e Cliente, c
 As especificações detalhadas e a descrição completa do sistema estão disponíveis no arquivo "Descrição do Sistema" na pasta "Descrição".
 
 *Observações* - Para que o sistema funcione corretamente, certifique-se préviamente:
-- Verifique se sua máquina possui JRE - versão 17.
+- Verifique se sua máquina possui JDK - versão 17.
 - Execute a DDL do Banco de dados 'SupermercadoFeirao' disponível no arquivo "BancoSupermercadoFeirao.sql", na pasta "Descrição".
 (Este Sistema possui o drive do MYSQL, caso você não utilize é preciso instalar o drive do seu Banco em 'Pom.xml')
 - Altere os valores de Usuário e Senha do seu Banco de Dados local no arquivo "Persistence.xml" localizado em: src\main\resources\META-INF\persistence.xml.
@@ -25,7 +25,7 @@ There are also three types of users in the system: Attendant, Manager, and Custo
 The detailed specifications and complete description of the system are available in the 'Descrição do Sistema' file in the 'Descrição' folder.
 
 *Notes* - To ensure the system functions correctly, please make sure to:
-- Verify that your machine has JRE - version 17.
+- Verify that your machine has JDK - version 17.
 - Execute the DDL for the 'SupermercadoFeirao' database available in the file "BancoSupermercadoFeirao.sql" located in the "Descrição" folder.
 (This system includes the MYSQL driver; if you do not use it, you need to install the driver for your database in 'Pom.xml')
 - Update the User and Password values for your local database in the "Persistence.xml" file located at: src\main\resources\META-INF\persistence.xml.
