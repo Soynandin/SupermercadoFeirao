@@ -10,7 +10,7 @@ As especificações detalhadas e a descrição completa do sistema estão dispon
 
 *Observações* - Para que o sistema funcione corretamente, certifique-se préviamente:
 - Verifique se sua máquina possui JRE - versão 17.
-- Execute a DDL do Banco de dados 'SupermercadoFeirao' disponível no arquivo "Banco Supermercado Feirao", na pasta "Descrição".
+- Execute a DDL do Banco de dados 'SupermercadoFeirao' disponível no arquivo "BancoSupermercadoFeirao.sql", na pasta "Descrição".
 (Este Sistema possui o drive do MYSQL, caso você não utilize é preciso instalar o drive do seu Banco em 'Pom.xml')
 - Altere os valores de Usuário e Senha do seu Banco de Dados local no arquivo "Persistence.xml" localizado em: src\main\resources\META-INF\persistence.xml.
 
@@ -26,6 +26,6 @@ The detailed specifications and complete description of the system are available
 
 *Notes* - To ensure the system functions correctly, please make sure to:
 - Verify that your machine has JRE - version 17.
-- Execute the DDL for the 'SupermercadoFeirao' database available in the file "Banco Supermercado Feirao" located in the "Descrição" folder.
+- Execute the DDL for the 'SupermercadoFeirao' database available in the file "BancoSupermercadoFeirao.sql" located in the "Descrição" folder.
 (This system includes the MYSQL driver; if you do not use it, you need to install the driver for your database in 'Pom.xml')
 - Update the User and Password values for your local database in the "Persistence.xml" file located at: src\main\resources\META-INF\persistence.xml.
